@@ -1,5 +1,5 @@
 #Web Development
-###Mike Deering
+###   by Mike Deering
 
 ##Languages and Frameworks 
 Can't know what you should learn, before knowing what to build. 
@@ -7,7 +7,8 @@ Can't know what you should learn, before knowing what to build.
 - [ ] 
 
 ##Things to know
-- [ ] The manual is helpful. 
+- The manual is helpful. 
+- Being a full stack developer is a product guy, great at nothing. 
 
 
 ##Things to checkout
